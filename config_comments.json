@@ -1,0 +1,8 @@
+/*
+ * This is an example config
+ */
+{
+  "application_path": "/usr/local/bin",
+  "application_name": "MyThing", // Name of program
+  "version": 42
+}
